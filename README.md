@@ -17,7 +17,7 @@ between 17 and 21 (dealer always plays with the same logic in BlackJack)<br />
 
 Game Instructions<br />
 
--You can run the game from the game class, using the RealGame() (src/BlackJackgame/Game.java) function <br />
+-You can run the game from the game class (src/BlackJackgame/Game.java) , using the RealGame() function <br />
 -Press start button to start the game. <br />
 -Press the hit button to request another card (if the new card makes you pass 21,  you lose)<br />
 -Press the stand button when you are happy with your hand and the dealer will play<br />
