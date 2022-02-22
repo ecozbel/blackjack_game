@@ -11,7 +11,7 @@ import edu.macalester.graphics.*;
 /**
  * Creates a card object that is drawn randomly from a pool. Card object has a string name (ex. Seven),
  * a type (suit), a numeric value (ex. 7) , a code (ex. 7s.gif) and an image.
- * Author: Ceyhun, Lien, Aliya 
+ * @author: Ceyhun, Lien, Aliya 
  */
 public class Card extends GraphicsObject {
     int value;

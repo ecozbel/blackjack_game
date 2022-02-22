@@ -13,7 +13,7 @@ import edu.macalester.graphics.ui.Button;
  * 
  * Creates the game that holds the logic for the player and dealer, as well as UI elements.
  * 
- * Author: Ceyhun, Lien, Aliya
+ * @author: Ceyhun, Lien, Aliya
  */
 public class Game {
 

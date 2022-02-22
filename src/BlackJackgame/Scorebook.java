@@ -2,7 +2,7 @@
 * The scorebook holds and returns the scores of the dealer and the player. The dealer's score 
 * is kept in idex 0, whereas the player's score is kept in idex 1.
 * 
-* Author: Ceyhun, Lien, Aliya
+* @author: Ceyhun, Lien, Aliya
 */
 package BlackJackgame;
 

@@ -13,7 +13,7 @@ import java.util.ArrayList;
  * the same as the numeric value of the type of cards stored in that index.
  * 
  * 
- * Author: Ceyhun, Lien, Aliya
+ * @author: Ceyhun, Lien, Aliya
  */
 public class Deck {
 
