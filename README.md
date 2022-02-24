@@ -1,4 +1,5 @@
 # BlackJack Game
+Final Group Project for Data Structures
 
 By: Ceyhun, Aliya and Lien 
 
